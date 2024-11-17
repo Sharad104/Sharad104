@@ -1,9 +1,5 @@
 # Hi, I'm Sharad !  
 
-## About Me
-- **Learning**: C++, Java, Web Development (HTML, CSS, JavaScript, Express.js).  
-- **Passionate**: Linux, open-source projects, and collaborative development.
-
 ## Projects
 - **[Gemini Chatbot](https://github.com/Sharad104/chatbot)**:  
   Responsive chatbot built with Node.js, Express, and a clean HTML/CSS/JavaScript frontend.  
