@@ -13,9 +13,4 @@
 - **Web**: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
 - **Databases**: MySQL, MongoDB  
 - **Linux**: Red Hat, system customization  
-- **Tools**: Git  
-
-## Contact
-- **Email**: [sharadchandel2005@gmail.com](mailto:sharadchandel2005@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/sharadchandel2005](https://www.linkedin.com/in/sharadchandel2005/)  
-- **Twitter**: [@Sharad_104](https://x.com/Sharad_104)  
+- **Tools**: Git
