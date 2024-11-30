@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Sharad104&style=for-the-badge&color=green)
+
 # Hi, I'm Sharad !  
 
 ## Projects
